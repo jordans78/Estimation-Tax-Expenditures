@@ -5,6 +5,10 @@ In general, the purpose of tax expenditures is to support certain economic secto
 
 In order to estimate tax expenditure it is crucial to have a robust micro-simulation model which can have the possibility to estimate tax expenditures through different groups of taxpayers.
 
+In this light, this code was prepared as an example of a simplified micro-simulation model that can be used to determine TE's. Example here is estimation of TE'S from Personal Income tax on basis of syntetic data.
+
+Purpose of this code is like background material for  research paper titled as ,,Tax Expenditures Report: The case of Republic of North Macedonia" prepared for
+9-th International Workshop on Domestic Revenue Mobilisation organized by Deutsches Institut für Entwicklungspolitik (DIE) and the Council on Economic Policies (CEP).
 
 <p aligh="center">
 <img src="https://github.com/jordans78/Estimaton-Tax-Expenditures/blob/main/Documentation/ParetoPlot.png" 
